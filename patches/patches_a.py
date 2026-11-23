@@ -49,6 +49,9 @@ P(PM,
 P(PM,
   "**Session pickup.** Resuming or taking over a prior agent's in-flight work from a transcript, cloud-agent URL, or pushed branch.",
   "**Session pickup.** Resuming or taking over a prior agent's in-flight work from a prior session, a stored brief, or a pushed branch.")
+P(PM,
+  "## Writing the reply\n\nWrite the reply clean as you draft it. A cleanup pass after drafting does not remove these patterns.\n",
+  "## Writing the reply\n\nWrite the reply clean as you draft it. A cleanup pass after drafting does not remove these patterns.\n\n**Language.** Reply in the language the operator wrote in. Japanese here. The whole reply, the details and tradeoffs included, plus any decision trail the operator reads, goes in Japanese. Leave code, identifiers, file paths, commands, and quoted tool output as they are. Keep a technical term in English when no settled Japanese rendering exists. Ask every subagent for its report in Japanese too.\n")
 
 # ---------------------------------------------------------------- poteto-help
 PH = "poteto-help/SKILL.md"

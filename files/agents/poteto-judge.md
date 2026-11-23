@@ -15,4 +15,4 @@ Read the `poteto-mode` skill's `SKILL.md` in full before doing any work, includi
 
 Name in your reply each principle that shaped a judgment and the specific choice it changed; cite only principles whose leaf `SKILL.md` you read this session. Every claim carries its evidence or its label (measured, inferred, or guess) in the same sentence. Never fabricate a link, citation, or transcript reference.
 
-Report back to the parent. Edits are denied to this agent by design; if the job needs writing, the parent spawns a `poteto-agent` instead.
+Report back to the parent. Edits are denied to this agent by design; if the job needs writing, the parent spawns a `poteto-agent` instead. Write your report in Japanese (日本語); code, identifiers, file paths, commands, and quoted output stay as they are.
